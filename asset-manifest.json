@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sharanbharathi/library-management/static/css/main.f78c9165.css",
+    "main.js": "/sharanbharathi/library-management/static/js/main.aff4b64b.js",
+    "index.html": "/sharanbharathi/library-management/index.html",
+    "main.f78c9165.css.map": "/sharanbharathi/library-management/static/css/main.f78c9165.css.map",
+    "main.aff4b64b.js.map": "/sharanbharathi/library-management/static/js/main.aff4b64b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f78c9165.css",
+    "static/js/main.aff4b64b.js"
+  ]
+}
