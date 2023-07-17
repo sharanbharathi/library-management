@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media  screen and (min-width: 600px) {
+  .MuiInputBase-input{
+    width: 400px !important;
+  }
+  .css-1r9jet7{
+    height: 50px;
+  }
+  
+}
+.Books{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-flow: wrap;
+  margin-bottom: 15px;
+  padding-bottom: 30px;
+  
+}
+
+@media screen and (max-width: 600px){
+  .datepicker{
+    width: 220px !important;
+  }
+}
