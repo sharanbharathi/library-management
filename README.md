@@ -31,6 +31,8 @@ The Library Management System is built using the following technologies:
 
 **Conclusion:**
 The Library Management System developed using React.js offers an efficient and user-friendly solution for automating library operations. Its features encompass user management, book cataloging, search, borrowing and returning, reservation, fine calculation, and reporting. React.js's component-based architecture, along with other complementary technologies, enables the creation of a responsive and interactive user interface. The system enhances library efficiency, improves user experience, and provides valuable insights through various reports, ultimately streamlining library management processes.
+
+
 Login page:
 ![Screenshot (149)](https://github.com/sharanbharathi/library-management/assets/98640968/da6d82b3-4bdf-44dd-886d-2e144d275aa2)
 
