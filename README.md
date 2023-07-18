@@ -41,6 +41,14 @@ Home Page:
 
 Creating a book:
 ![Screenshot (146)](https://github.com/sharanbharathi/library-management/assets/98640968/d4e2506b-a711-46c6-97f8-cff60fd7fc27)
+
+List of Books:
+![Screenshot (150)](https://github.com/sharanbharathi/library-management/assets/98640968/c0b28170-2fa4-460f-ab86-f9294c9be378)
+
+Book Details:
+![Screenshot (151)](https://github.com/sharanbharathi/library-management/assets/98640968/9bd901f1-abaa-46a7-82c4-0ab34e9d9186)
+
+
 Creating a member:
 ![Screenshot (145)](https://github.com/sharanbharathi/library-management/assets/98640968/0a8e75be-28f6-46a3-9ebc-d127f9ae7ccb)
 List of members:
